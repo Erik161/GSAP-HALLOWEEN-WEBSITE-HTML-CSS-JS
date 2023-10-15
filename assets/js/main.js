@@ -31,8 +31,15 @@ const linkAction = () =>{
 navLink.forEach(n  => n.addEventListener('click', linkAction))
 
 
-
 /*=============== CHANGE BACKGROUND HEADER ===============*/
+
+const bgHeader = () =>{
+    const bgHeader = document.getElementById('header')
+    // When the scroll is greater than 100 viewport height, add the bg-header class to the header tag
+    this.scrollY >= 50  ? header.classList.add('bg-header')
+                        : header.classList.remove('bg-header')
+}
+window.addEventListener('scroll', bgHeader)
 
 
 /*=============== GSAP ANIMATION ===============*/  
