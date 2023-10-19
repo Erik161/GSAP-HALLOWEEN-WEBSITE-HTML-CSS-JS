@@ -12,3 +12,5 @@
 ![screencapture-127-0-0-1-5500-index-html-2023-10-15-07_53_37](https://github.com/Erik161/GSAP-HALLOWEEN-WEBSITE-HTML-CSS-JS/assets/26189854/f3d68e7d-8cca-428d-a4fb-a8710631004a)
 
 </div>
+
+
